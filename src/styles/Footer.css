@@ -1,0 +1,11 @@
+ 
+.backgroundFooter{
+    background-color: #65350F;
+     height:250px !important;
+     overflow: hidden !important;
+}
+.footerLogo{
+border-radius: 20px; 
+height: 180px;
+width:200px;
+}

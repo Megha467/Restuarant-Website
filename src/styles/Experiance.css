@@ -1,0 +1,17 @@
+ 
+.clipvid {  
+	position: relative;
+	width: 480px;
+	height: 480px;
+	overflow: hidden;
+}
+.clippedvid {
+	position: absolute;
+	top: -180px;
+	left: -170px;
+}
+/* This is from the css for video.js. I had to make these changes.*/ 
+.vjs-default-skin .vjs-control-bar {
+  width: 75%;
+  left: 12.5%;
+}
